@@ -1,4 +1,4 @@
-<<!-- Typing Effect Intro -->
+<!-- Typing Effect Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Prashant+Gupta;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights!)](https://git.io/typing-svg)
 
 ---
@@ -109,3 +109,4 @@ Data Analyst skilled in **SQL, Python, and Power BI**, with internship experienc
 ---
 
 ⭐ From [Prashant Gupta](https://github.com/Prashant8064)
+
