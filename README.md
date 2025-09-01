@@ -1,53 +1,70 @@
-<!-- Typing Effect Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Prashant+Gupta;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights!)](https://git.io/typing-svg)
+<!-- Hero Section -->
+<h1 align="center">Hi 👋, I'm Prashant Gupta</h1>
+<h3 align="center">🚀 Data Analyst | Python | SQL | Power BI | Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
+  <img src="https://img.shields.io/badge/From-IIT%20Patna-blue" />
+  <img src="https://komarev.com/ghpvc/?username=Prashant8064&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 ---
 
-## 👨‍💻 Profile  
-Data Analyst skilled in **SQL, Python, and Power BI**, with internship experience at **Deloitte** (fraud detection ↓20%) and **Accenture** (customer segmentation ↑12%).  
-
-✅ Built predictive dashboards (**87% accuracy**)  
-✅ Automated reporting tools (**↓30% time**)  
-✅ Strong mix of technical expertise + data storytelling  
-
----
-
-## 🎓 Education  
-🎓 **Indian Institute of Technology, Patna (IIT Patna)**  
-📅 Aug 2023 – May 2026  
-📊 B.Sc. in Computer Science and Data Analytics | GPA: **7.97/10**
+## 🌟 About Me
+💡 Passionate about turning **data into insights** & building predictive dashboards  
+💼 Internship Experience: **Deloitte** (Fraud Detection ↓20%) | **Accenture** (ROI ↑12%)  
+📊 Built dashboards with **87% prediction accuracy** | Automated reports ↓30% time  
+🎓 B.Sc. in Computer Science & Data Analytics @ **IIT Patna (GPA 7.97/10)**  
 
 ---
 
-## 💼 Experience  
-
-### 🔹 Data Analyst Intern — Deloitte (Virtual, Apr–May 2024)  
-- Applied forensic accounting & anomaly detection in Excel → dataset integrity ↑15%  
-- Automated anomaly-report pipelines → fraud detection turnaround ↓20%  
-
-### 🔹 Data Analyst Intern — Accenture (Virtual, May–Jun 2024)  
-- Cleaned & standardized **100K+ records** (SQL + Python) → query efficiency ↑18%  
-- Built customer segmentation models → targeted campaigns ROI ↑12%  
-
----
-
-## 🚀 Projects  
-
-### 📊 [MarketPulse – Unlocking Sales Insights with Data & AI](https://github.com/Prashant8064/MarketPulse-EndToEnd-Analysis) (Jan 2024)  
-- Dashboard with Python + Power BI + ML to forecast sales  
-- Achieved **87% prediction accuracy**, improved inventory planning by 15%  
-
-### 📊 [Total Sales Analysis Dashboard](https://github.com/Prashant8064/POWER-BI-) (Feb 2024)  
-- Region-wise & product-wise revenue tracking (Power BI)  
-- Helped leadership improve sales efficiency by 10%  
-
-### 📊 [Sales Performance Dashboard](https://github.com/Prashant8064/EXCEL-) (Mar 2024)  
-- Excel dashboard for salesperson KPIs  
-- Reduced reporting time by 30%, boosting decision-making  
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/Prashant8064/MarketPulse-EndToEnd-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant8064&repo=MarketPulse-EndToEnd-Analysis&theme=radical" />
+  </a>
+  <a href="https://github.com/Prashant8064/POWER-BI-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant8064&repo=POWER-BI-&theme=radical" />
+  </a>
+  <a href="https://github.com/Prashant8064/EXCEL-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant8064&repo=EXCEL-&theme=radical" />
+  </a>
+</p>
 
 ---
 
-## 📜 Certifications  
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Experience
+- **Deloitte (Data Analyst Intern, Apr–May 2024)**  
+  🔹 Automated fraud detection pipeline → ↓20% turnaround  
+  🔹 Improved dataset integrity by 15%  
+
+- **Accenture (Data Analyst Intern, May–Jun 2024)**  
+  🔹 Cleaned & standardized 100K+ records → ↑18% efficiency  
+  🔹 Built customer segmentation models → ↑12% ROI  
+
+---
+
+## 🎓 Education
+**Indian Institute of Technology, Patna (IIT Patna)**  
+📅 Aug 2023 – May 2026 | 🎓 B.Sc. in Computer Science & Data Analytics  
+📊 GPA: **7.97/10**
+
+---
+
+## 📜 Certifications
 - Oracle Certified Professional: Data Science (OCI 2025) – Oracle University  
 - SQL (Basic, Intermediate, Advanced) – HackerRank (2024)  
 - Google Analytics Certification – Google (2024)  
@@ -56,37 +73,14 @@ Data Analyst skilled in **SQL, Python, and Power BI**, with internship experienc
 
 ---
 
-## 🏆 Achievements  
-- 🥉 3rd Place – **DATACRUX National Data Science Competition (IIT Patna)**  
-- 🎖️ Secured **5+ verified skill badges** (Google, Microsoft, IBM, AWS, LinkedIn Learning)  
-- 📈 Published dashboards on GitHub → **1K+ impressions** & positive peer reviews  
+## 🏆 Achievements
+- 🥉 3rd Place – DATACRUX National Data Science Competition, IIT Patna  
+- 🎖️ 5+ Skill Badges (Google, Microsoft, IBM, AWS, LinkedIn Learning)  
+- 📈 GitHub Projects with **1K+ impressions** & peer reviews  
 
 ---
 
-## 🛠 Skills  
-
-**Programming & Data:** Python, SQL, Excel, Git  
-**Visualization:** Power BI, Excel Dashboards, Tableau  
-**Big Data & Cloud:** Apache Spark, AWS (basic)  
-**Analytics & ML:** Data Cleaning, Hypothesis Testing, Predictive Modeling, Machine Learning  
-**Soft Skills:** Data Storytelling, Business Communication, Team Collaboration, Problem-Solving  
-
----
-
-## 🛠 Tech Stack (Badges)  
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Prashant8064&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant8064&theme=radical" />
@@ -95,16 +89,13 @@ Data Analyst skilled in **SQL, Python, and Power BI**, with internship experienc
 
 ---
 
-## 🐍 Contribution Graph Animation  
-![Snake animation](https://github.com/Prashant8064/Prashant8064/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🔗 Connect With Me  
-📧 [Email](mailto:Prashantgupta8064@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/prashant-gupta-60146b2a9)  
-💻 [GitHub](https://github.com/Prashant8064)  
-🌍 [Portfolio](https://prashantgupta01.my.canva.site/prashant-gupta-s-dynamic-data-analyst-portfolio)  
+## 🔗 Connect With Me
+<p align="center">
+<a href="mailto:Prashantgupta8064@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prashant-gupta-60146b2a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Prashant8064"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://prashantgupta01.my.canva.site/prashant-gupta-s-dynamic-data-analyst-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
