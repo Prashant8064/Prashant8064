@@ -21,20 +21,20 @@
 ## 📌 Featured Projects  
 
 🔹 **[Employee Attrition Prediction (HR Analytics)](./Employee_attrition_prediction_hr_analytics.ipynb)**  
-➡️ Predicted employee attrition using ML classification models  
-➡️ Analyzed HR data to identify retention patterns & KPIs  
+- Built ML models to predict employee attrition with high accuracy  
+- Identified key HR retention factors & KPIs for decision-making  
 
 🔹 **[Food Wastage Prediction & Redistribution](./Food_Wastage_Prediction_and_Redistribution.ipynb)**  
-➡️ Forecasted food wastage across supply chains  
-➡️ Built a redistribution strategy to reduce waste & support NGOs  
+- Forecasted food wastage in supply chains using regression models  
+- Proposed redistribution strategies to minimize waste & aid NGOs  
 
 🔹 **[Personalized Learning Recommendation System](./Personalized_Learning_Recommendation_System.ipynb)**  
-➡️ Designed recommendation algorithms for adaptive learning paths  
-➡️ Improved learning efficiency by tailoring content to student performance  
+- Designed recommendation engine for adaptive learning  
+- Enhanced student engagement by tailoring study paths  
 
 🔹 **[Smart City Data Analytics Platform](./Smart_City_Data_Analytics_Platform.ipynb)**  
-➡️ Developed urban analytics dashboards for traffic, energy & air quality  
-➡️ Enabled data-driven decisions for sustainable smart city planning  
+- Developed urban analytics dashboards (traffic, energy, air quality)  
+- Enabled **data-driven decision making** for sustainable cities  
 
 ---
 
