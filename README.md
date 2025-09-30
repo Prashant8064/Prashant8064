@@ -19,12 +19,22 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 **Fraud Detection System** → Automated pipeline, ↓20% fraud turnaround  
-🔹 **Customer Segmentation Dashboard** → Improved ROI by 12%  
-🔹 **Predictive Sales Dashboard** → 87% prediction accuracy  
-🔹 **Data Automation Scripts** → ↓30% reporting time  
-🔹 **Excelerate Internship Project** → KPI dashboards, SQL validation, data storytelling  
-🔹 **Machine Unlearning Research** → Forget/Retain datasets & evaluation notebooks  
+
+🔹 **[Employee Attrition Prediction (HR Analytics)](./Employee_attrition_prediction_hr_analytics.ipynb)**  
+➡️ Predicted employee attrition using ML classification models  
+➡️ Analyzed HR data to identify retention patterns & KPIs  
+
+🔹 **[Food Wastage Prediction & Redistribution](./Food_Wastage_Prediction_and_Redistribution.ipynb)**  
+➡️ Forecasted food wastage across supply chains  
+➡️ Built a redistribution strategy to reduce waste & support NGOs  
+
+🔹 **[Personalized Learning Recommendation System](./Personalized_Learning_Recommendation_System.ipynb)**  
+➡️ Designed recommendation algorithms for adaptive learning paths  
+➡️ Improved learning efficiency by tailoring content to student performance  
+
+🔹 **[Smart City Data Analytics Platform](./Smart_City_Data_Analytics_Platform.ipynb)**  
+➡️ Developed urban analytics dashboards for traffic, energy & air quality  
+➡️ Enabled data-driven decisions for sustainable smart city planning  
 
 ---
 
@@ -96,15 +106,3 @@ _Department: Computer Science & Engineering_
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Prashant8064) | [Portfolio](#)  
 
 ⭐ _“Stay curious, keep building, and never stop learning.”_  
-
-
-
-
-
-🔗 Connect With Me
-
-LinkedIn
- | GitHub
- | Portfolio
-
-⭐ From Prashant Gupta
